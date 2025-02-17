@@ -1,8 +1,8 @@
 #!/bin/bash
 #SBATCH --job-name musicgen
-#SBATCH --output log/out/%j_.txt
+#SBATCH --output log/out/%j.txt
 #SBATCH --error log/err/%j.txt
-#SBATCH --mail-user spanio@dei.unipd.it
+#SBATCH --mail-user myemail
 #SBATCH --mail-type ALL
 #SBATCH --time 2-20:00:00
 #SBATCH --ntasks 2

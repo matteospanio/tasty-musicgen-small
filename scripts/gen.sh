@@ -2,7 +2,7 @@
 #SBATCH --job-name infer-musicgen
 #SBATCH --output log/%j_out.txt
 #SBATCH --error log/%j_err.txt
-#SBATCH --mail-user spanio@dei.unipd.it
+#SBATCH --mail-user myemail
 #SBATCH --mail-type ALL
 #SBATCH --time 2-20:00:00
 #SBATCH --ntasks 2
