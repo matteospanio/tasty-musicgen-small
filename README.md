@@ -50,6 +50,22 @@ This program has been tested with the latest version of Python 3.10, more recent
 
 - [Matteo Spanio](https://matteospanio.github.io/)
 
+## Citation
+
+If you use this code in your research, please cite the following article:
+
+```
+@misc{spanio2025multimodalsymphonyintegratingtaste,
+      title={A Multimodal Symphony: Integrating Taste and Sound through Generative AI}, 
+      author={Matteo Spanio and Massimiliano Zampini and Antonio Rodà and Franco Pierucci},
+      year={2025},
+      eprint={2503.02823},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2503.02823}, 
+}
+```
+
 ## License
 
 This repository is licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) License.
