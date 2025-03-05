@@ -1,6 +1,8 @@
 # tasty-musicgen-small
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.02823-b31b1b.svg)](https://arxiv.org/abs/2503.02823)
+
 
 ## Description
 
